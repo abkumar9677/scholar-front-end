@@ -11,19 +11,19 @@ export class Feature extends Component {
                             <h2>Development</h2>
                             <div>
                                 <div>
-                                    <a>Python</a>
+                                    <a href="# ">Python</a>
                                 </div>
                                 <div>27,582,375 students</div>
                             </div>
                             <div>
                                 <div>
-                                    <a>Web Development</a>
+                                    <a href="# ">Web Development</a>
                                 </div>
                                 <div>9,157,746 students</div>
                             </div>
                             <div>
                                 <div>
-                                    <a>Machine Learning</a>
+                                    <a href="# ">Machine Learning</a>
                                 </div>
                                 <div>5,601,093 students</div>
                             </div>

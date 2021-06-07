@@ -4,7 +4,7 @@ import {Header,Navigation} from './Components';  // import component directly fr
 
 import {ImageCarousel,Footer,Categories} from './Components'                                       
 
-import Feature from './Components/Footer/Feature/Feature';
+import Feature from './Components/Feature/Feature';
 function App() {
 
   return (
